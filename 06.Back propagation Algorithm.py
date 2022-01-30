@@ -1,4 +1,4 @@
-PROGRAM.No.5 (Back propagation Algorithm)
+PROGRAM.No.6 (Back propagation Algorithm)
 """Build an Artificial Neural Network by implementing the Back propagation algorithm and test the same using appropriate data sets.""" 
 
 
