@@ -40,3 +40,25 @@ print(metrics.confusion_matrix(ytest,predicted))
 print('Recall and Precison ')
 print(metrics.recall_score(ytest,predicted))
 print(metrics.precision_score(ytest,predicted))
+
+      
+      
+########################################################################################################################
+# OUTPUT:
+# Ignore single quotes at beginning and end
+########################################################################################################################
+      
+The dimensions of the dataset (18, 2)
+dimensions of train and test sets
+(13,)
+(5,)
+(13,)
+(5,)
+Accuracy metrics
+Accuracy of the classifer is 0.6
+Confusion matrix
+[[1 1]
+[1 2]]
+Recall and Precison
+0.6666666666666666
+0.6666666666666666
